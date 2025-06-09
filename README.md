@@ -1,1 +1,2 @@
-# natural-disaster-classifier
+Natural Disaster Image Classifier is a Convolutional Neural Network (CNN)-based deep learning project that can identify the type of natural disaster (e.g., earthquake, flood, wildfire, cyclone) from an input image. The model is trained on a labeled dataset of real-world disaster images and uses computer vision techniques to learn spatial hierarchies of features. This project demonstrates the application of deep learning in disaster detection, which can be extended for emergency response systems or real-time monitoring.
+
